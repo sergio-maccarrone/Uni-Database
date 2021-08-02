@@ -9,7 +9,7 @@ Banca del Tempo Project
     organized as credit institutions where transactions are based on
     circulation of time, rather than money.
 
-  2.Goal:
+  2. Goal:
     The user who accesses the BancaDelTempo website can view the homepage
     of the site where there is a detailed explanation of what it is and how
     a time bank works. The user who decides to become a member can
@@ -30,7 +30,7 @@ Descrizione:
     organizzate come istituti di credito in cui le transazioni sono basate sulla 
     circolazione del tempo, anziché del denaro. 
 
-  2.Obbiettivo: 
+  2. Obiettivo: 
     L’utente che accede al sito BancaDelTempo può visualizzare la homepage 
     del sito dove è presente una spiegazione dettagliata su cos’è e come 
     funziona una banca del tempo. L’utente che decide di diventare socio può 
