@@ -2,7 +2,7 @@
 Banca del Tempo Project
 
 --EN
-Description:
+<br>Description:
 1. What is a Banca del Tempo:
   The time bank is a system where people trade
   reciprocally activities, services and knowledge. Time banks are
@@ -22,7 +22,7 @@ Description:
   data saving, and a reference website for access, insertion
   and data modification.
 
---IT
+--IT<br>
 Descrizione: 
 1. Cos’è una banca del tempo: 
   La banca del tempo è un sistema in cui le persone scambiano 
